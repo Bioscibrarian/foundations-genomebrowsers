@@ -29,5 +29,5 @@ In addition to our GalterGuides, there are lots of support materials available f
 * [Genome Browser FAQ](https://genome.ucsc.edu/FAQ/)
 * Also, when you're in the browser view, there is a banner at the top showing a guided tutorial (unless you've clicked "Don't show again"). There are also examples in a link to the right of the search button and a clinical tutorial link.  
 ## Ensembl Genome Browser support materials
-  * [Help & Documentation page](https://useast.ensembl.org/info/index.html)
+  * [Help & Documentation page](https://www.ensembl.org/info/index.html)
   * [Ensembl Tutorials and Worked Examples](https://useast.ensembl.org/info/website/tutorials/index.html) (videos) and [YouTube Channel](https://www.youtube.com/user/EnsemblHelpdesk)
