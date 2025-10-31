@@ -15,5 +15,5 @@ Unlike UCSC, Ensembl does **not** show human variants in the graphic view for th
   * When you add tracks from the configuration page, they **will** show in the browser graphic.  
 * One of my favorite features in Ensembl is the Variant Table (available from the left menu).
   * In the Gene tab, the variant table will show only exonic variants. Like the variant image, there are too many variants at the gene level to be included in the table, so only exonic variants are shown.
-  * You can see all variants in the variant table for an individual transcript, though (including intronic and 3' and 5' UTRs).  
+  * You CAN see all variants in the variant table for an individual transcript, though, if you are in a Transcript tab and click on the Variant Table (including intronic and 3' and 5' UTRs).  
   * The variant table allows you to filter from several data sources: SIFT score, PolyPhen score, consequence, MAF, and "other" which includes evidence, clinical significance, source, and other data features.
