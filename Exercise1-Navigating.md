@@ -30,7 +30,8 @@ NOTCH1 (Neurogenic locus notch homolog protein 1) is a receptor for membrane-bou
 * If you have used this browser recently and have different tracks, please find "Reset Configuration" in the blue-grey bar at the top or bottom of the browser graphic, and reset the defaults.
     * Note that this looks VERY different from UCSC. There are more text elements, with the browser view in the bottom.
     * The left menu is very helpful. It will take you to specific features with their own detailed options.
-    * Also note the top of the view: there are two tabs, one for location and one for gene. If you click on a transcript, for example, you will open another tab. This is nice if you want to get back to where you started, but some people might find multiple tabs distracting. 
+    * **Useful**: If you can't see the transcript table at the top of the page, click on the button to "show transcript table".
+    * **Many tabs!** Also note the top of the view: there are two tabs, one for location and one for gene. If you then click on a transcript, for example, you will open another tab. This is nice if you want to get back to where you started, but some people might find multiple tabs distracting. 
 * Take some time figuring out: What chromosome and strand is the gene coded on? How can you change the order of the tracks? How do you zoom? How do you find links to the DNA sequence? Protein? Structure? Is it easy to find how many transcripts the gene encodes?  
 
 
