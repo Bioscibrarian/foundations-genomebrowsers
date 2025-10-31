@@ -7,8 +7,7 @@ UCSC's source data download tool is called the Table Browser. It is accessible f
 * In the **Select dataset** section:
   * The Clade, Genome and Assembly will also auto-populate from your browser session.
   * Select your Group, Track, and Table.
-    * The Group is basically the grouping of selectable tracks you see under the genome graphic view in the Genome Browser, with Track and Table specific to data from those groups.
-  * For our example, were going to keep it VERY simple: we're going to download coordinates for all the transcripts from ACE2, showing transcript start and stop sites, exon numbers, and protein information (if available).
+    * The Group is basically the grouping of selectable tracks you see>able).
     * **Group**: Genes and Gene Predictions
     * **Track**: GENCODE v46
     * **Table**: knownGene
