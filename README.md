@@ -22,7 +22,6 @@ It's free to create a user account for each browser, and we recommend it. This w
 
 
 # Helpful guides and support materials
-In addition to our GalterGuides, there are lots of support materials available for each genome browser.
 ## UCSC Genome Browser support materials
 * [Genome Browser User Guide](https://genome.ucsc.edu/goldenPath/help/hgTracksHelp.html)
 * [Online training](https://genome.ucsc.edu/training/index.html) (list of videos) and [YouTube Channel](https://www.youtube.com/channel/UCQnUJepyNOw0p8s2otX4RYQ/videos)  
