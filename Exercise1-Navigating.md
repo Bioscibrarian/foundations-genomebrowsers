@@ -50,4 +50,4 @@ When you click on a feature in each browser, varying things will happen.
 
 ### To drag the genome graphic:  
 * **In UCSC**: Click anywhere NOT on a feature and drag left or right.
-* **In Ensembl**: Shift + click anywhere NOT on a feature and drag left or right.
+* **In Ensembl**: In the Location tab only: Click the Drag/Select icon in the upper right corner of the detailed region (showing the genes) to toggle back and forth between select or drag funtionality.
