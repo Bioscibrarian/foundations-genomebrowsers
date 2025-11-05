@@ -18,7 +18,7 @@ UCSC's source data download tool is called the Table Browser. It is accessible f
   * Choose whether you want all fields, selected fields, and optional GTF or BED formats. You can also send data directly to Galaxy (the public web version) or GREAT. For this example, we'll just keep all fields.
   * Give it a filename, or leave it blank to see the output in the web browser.
   * Choose tsv or csv  
-  * Plain text or .zip (recommended if you are downloading a lot of dat on several regions or identifiers). 
+  * Plain text or .zip (recommended if you are downloading a lot of data on several regions or identifiers). 
 
 ## Ensembl data downloads and BioMart  
 Since some sections in the Ensembl Genome Browser view are text-heavy, there is often an option to download those data fields as Excel. There is also an "Export data" button in the left menu.  However, to get the most data available from Ensembl, there is a tool called BioMart, which, like UCSC's Table Browser, allows you to control what fields you download and add more data than are availble from the browser interface.  
